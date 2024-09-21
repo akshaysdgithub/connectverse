@@ -1,11 +1,20 @@
-// import './App.css';
+import React from 'react';
+import { AuthProvider } from './context/AuthContext';
+import Login from './components/Login';
+import Signup from './components/Signup';
+import Home from './pages/Home';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <h1>This is react App</h1>
-    </div>
+    <AuthProvider>
+      <div>
+        <h1>Authentication App</h1>
+        <Home />
+        <Signup />
+        <Login />
+      </div>
+    </AuthProvider>
   );
-}
+};
 
 export default App;
