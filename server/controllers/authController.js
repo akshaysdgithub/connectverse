@@ -21,7 +21,7 @@ exports.login = (req, res) => {
     bcrypt.compare(password, user.password, (err, match) => {
       if (err || !match) return res.status(401).json({ message: 'Auth failed' });
       const token = jwt.sign({ id: user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });
-      res.json({ token });
+      res.json({ token: token, username: user.username });
     });
   });
 };

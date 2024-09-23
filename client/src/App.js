@@ -1,18 +1,22 @@
 import React from 'react';
 import { AuthProvider } from './context/AuthContext';
-import Login from './components/Login';
-import Signup from './components/Signup';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Root from './pages/Root';
 import Home from './pages/Home';
 
 const App = () => {
+  // const [activeTab, setActiveTab] = useState('login');
+
+  // const handleTabClick = (tab) => { setActiveTab(tab); };
+
   return (
     <AuthProvider>
-      <div>
-        <h1>Authentication App</h1>
-        <Home />
-        <Signup />
-        <Login />
-      </div>
+      <Router>
+        <Routes>
+          <Route path="/" element={<Root />} />
+          <Route path="/home" element={<Home />} />
+        </Routes>
+      </Router>
     </AuthProvider>
   );
 };

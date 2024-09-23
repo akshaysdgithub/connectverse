@@ -1,0 +1,13 @@
+#apptitle {
+    margin: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 2.75em;
+    color: rgb(43, 42, 42);
+}
+
+.login_signup {
+    text-align: center;
+}
