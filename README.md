@@ -38,4 +38,17 @@ _Assuming both client and server is on seperate system. If not will require two 
 
 ## Preview
 
-<a href="https://drive.google.com/uc?export=view&id=12_cBkZfdROsga8Hjlr2nV55x6XabhS-3"><img src="https://drive.google.com/uc?export=view&id=12_cBkZfdROsga8Hjlr2nV55x6XabhS-3" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/file/d/12_cBkZfdROsga8Hjlr2nV55x6XabhS-3/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=12_cBkZfdROsga8Hjlr2nV55x6XabhS-3" style="width: 800px; max-width: 100%; height: auto" title="LoginTab" />
+
+<br />
+<a href="https://drive.google.com/file/d/1O4MjaVOdGT7OmkK7GR6YLeOiox4IYD3l/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1O4MjaVOdGT7OmkK7GR6YLeOiox4IYD3l" style="width: 800px; max-width: 100%; height: auto" title="Authenticate" />
+
+<br />
+<a href="https://drive.google.com/file/d/19WiXO6_YPfHkadmiFq58jiwgWjlKGCOW/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=19WiXO6_YPfHkadmiFq58jiwgWjlKGCOW" style="width: 800px; max-width: 100%; height: auto" title="DummyHomePage" />
+
+<br />
+<a href="https://drive.google.com/file/d/1DwypzzlxjKeYvoUr2cq9R2yVAYZR0rdA/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1DwypzzlxjKeYvoUr2cq9R2yVAYZR0rdA" style="width: 800px; max-width: 100%; height: auto" title="RegisterTab" />
+
+<br />
+<a href="https://drive.google.com/file/d/1BHVHpZXMswZhpAFrgxVOpukFCksbcXqk/view?usp=drive_link"><img src="https://drive.google.com/uc?export=view&id=1BHVHpZXMswZhpAFrgxVOpukFCksbcXqk" style="width: 800px; max-width: 100%; height: auto" title="SigningUp" />
+
